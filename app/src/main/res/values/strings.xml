@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ejemplo Java 2</string>
+    <string name="registro.name">Registro</string>
+
+    <string name="main.tv.irpaginaweb"><u>Ir Pagina Web</u></string>
+    <string name="main.btn.ingresar">Ingresar</string>
+    <string name="main.btn.registro">Registro</string>
+
+    <string name="main.et.user">Ingrese su usuario</string>
+    <string name="main.et.pass">Ingrese su contraseña</string>
+
+    <string name="main.et.titulo">GDG Android Bolivia</string>
+
+    <string name="registro.et.nombres">Ingrese sus nombres</string>
+    <string name="registro.et.apellidos">Ingrese sus apellidos</string>
+    <string name="registro.et.correo">Ingrese su correo</string>
+    <string name="registro.et.telefono">Ingrese su telefono</string>
+
+    <string name="activity.registro.nombre">Registro</string>
+    <string name="activity.detalle.nombre">Detalle</string>
+
+    <string name="detalle.btn.volver">Volver</string>
+
+</resources>
